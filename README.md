@@ -1,4 +1,5 @@
 # Mask_SSD
+<img width="496" alt="Screenshot 2024-03-05 at 13 51 57" src="https://github.com/WasabiCode/Mask_SSD/assets/131234769/03944ed9-868e-48d3-aceb-2e35c9916491">
 Novel approach for object detection. Segmentation mask and Bounding boxes in one forward pass
 
 
